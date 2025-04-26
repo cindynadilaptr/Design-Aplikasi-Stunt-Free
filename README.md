@@ -6,9 +6,9 @@ Selain itu, aplikasi menyediakan panduan dan tips gizi praktis untuk orang tua, 
 Dengan pendekatan berbasis kebutuhan pengguna, aplikasi ini diharapkan mampu menjadi solusi edukatif dan interaktif dalam mendukung pencegahan stunting di Indonesia.
 
 ![preview desain]
-(https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20203933.png?raw=true)
-(https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204006.png?raw=true)
-(https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204027.png?raw=true)
-(https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204047.png?raw=true)
+https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20203933.png?raw=true
+https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204006.png?raw=true
+https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204027.png?raw=true
+https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20204047.png?raw=true
 
 🔗 [Lihat desain lengkap di Figma](https://www.figma.com/design/Jzq7n811HYo3QrarqJtdad/Stunt-Free?node-id=156-181&t=dRJJdLEe7SzXmXvq-1)
