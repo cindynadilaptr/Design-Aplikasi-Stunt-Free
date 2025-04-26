@@ -5,6 +5,9 @@ Aplikasi ini dilengkapi berbagai fitur utama, seperti kalkulator gizi seimbang u
 Selain itu, aplikasi menyediakan panduan dan tips gizi praktis untuk orang tua, serta jadwal dan informasi imunisasi guna mendukung tumbuh kembang anak secara optimal.
 Dengan pendekatan berbasis kebutuhan pengguna, aplikasi ini diharapkan mampu menjadi solusi edukatif dan interaktif dalam mendukung pencegahan stunting di Indonesia.
 
+## Tools
+- Figma
+
 ## Preview Design
 
 ![preview desain](https://github.com/cindynadilaptr/Design-Aplikasi-Stunt-Free/blob/main/Screenshot%202025-04-26%20203933.png?raw=true)
